@@ -1,0 +1,32 @@
+docIdToDocPath:
+docId: 0, path = E:\Desktop\Java新实验一\SearchEngineForStudent\text\function\1.txt
+docId: 1, path = E:\Desktop\Java新实验一\SearchEngineForStudent\text\function\2.txt
+docId: 2, path = E:\Desktop\Java新实验一\SearchEngineForStudent\text\function\3.txt
+termToPosting:
+12-31= [(docId=0,freq=1,positions=[12])],
+2005= [(docId=0,freq=1,positions=[11]), (docId=2,freq=1,positions=[2])],
+26%= [(docId=1,freq=1,positions=[3])],
+activity= [(docId=0,freq=3,positions=[0, 1, 6]), (docId=1,freq=1,positions=[0])],
+because= [(docId=1,freq=1,positions=[5])],
+benefits= [(docId=0,freq=2,positions=[2, 7]), (docId=1,freq=1,positions=[10])],
+capital= [(docId=0,freq=2,positions=[3, 8]), (docId=1,freq=1,positions=[7])],
+destination= [(docId=0,freq=2,positions=[4, 9]), (docId=1,freq=1,positions=[1])],
+emergency= [(docId=0,freq=1,positions=[10]), (docId=1,freq=1,positions=[2])],
+except= [(docId=2,freq=1,positions=[4])],
+f16= [(docId=0,freq=1,positions=[13])],
+fizzy= [(docId=0,freq=1,positions=[5])],
+from= [(docId=0,freq=1,positions=[15])],
+frozen= [(docId=1,freq=2,positions=[9, 14])],
+google= [(docId=1,freq=2,positions=[11, 15])],
+ha= [(docId=1,freq=1,positions=[13])],
+hahahahahahahahahahahahah= [(docId=1,freq=1,positions=[12])],
+hence= [(docId=1,freq=1,positions=[6])],
+i= [(docId=1,freq=1,positions=[8])],
+marketplace= [(docId=2,freq=1,positions=[0])],
+medical= [(docId=2,freq=1,positions=[1])],
+notification= [(docId=2,freq=1,positions=[3])],
+peninsula= [(docId=2,freq=1,positions=[5])],
+pollution= [(docId=2,freq=1,positions=[7])],
+pseudopseudohypoparathyroidism= [(docId=0,freq=1,positions=[16]), (docId=2,freq=1,positions=[6])],
+the= [(docId=0,freq=1,positions=[14])],
+u571= [(docId=1,freq=1,positions=[4])],

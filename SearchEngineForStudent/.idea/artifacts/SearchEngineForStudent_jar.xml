@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact name="SearchEngineForStudent:jar">
+    <output-path>$PROJECT_DIR$/bin/artifacts/SearchEngineForStudent_jar</output-path>
+    <root id="root">
+      <element id="archive" name="SearchEngineForStudent.jar">
+        <element id="module-output" name="SearchEngineForStudent" />
+        <element id="dir-copy" path="$PROJECT_DIR$/../../新建文件夹" />
+      </element>
+      <element id="directory" name="index">
+        <element id="dir-copy" path="$PROJECT_DIR$/../../新建文件夹/index" />
+      </element>
+      <element id="directory" name="text">
+        <element id="dir-copy" path="$PROJECT_DIR$/../../新建文件夹/text" />
+      </element>
+    </root>
+  </artifact>
+</component>
